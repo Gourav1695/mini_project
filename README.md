@@ -1,4 +1,4 @@
-* My mini project 
+**My Mini Project** 
 
 * Doing Mini Project on Document Image Processing - Mentored by Dr.Samit Biswas.
 * In this project, we are using python language, OpenCV library, histogram equalization, Image Contrast Stretching(Image
